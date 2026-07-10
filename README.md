@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/License-MIT-purple?style=for-the-badge">
+
 # projeto_perguntas
 
 A new Flutter project.
